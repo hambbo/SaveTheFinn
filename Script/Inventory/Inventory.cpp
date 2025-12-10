@@ -132,6 +132,8 @@ void Inventory::UseItem(int itemIndex) // 아이템 사용함수
 }
 
 
+
+
 void Inventory::AddItem(int itemType) // 아이템 먹는 함수 
 {
 	if (itemType == 1)//나팔 
